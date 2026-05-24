@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 CC-Prep Forge — ISC2 Certified in Cybersecurity Exam Prep Tool
-Built by: Sakamoto for El Matador (Muhammad Aminu Musa)
+Built by: Muhammad Aminu Musa
 """
 
 import json, random, os, sys
