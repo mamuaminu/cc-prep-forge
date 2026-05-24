@@ -1,5 +1,5 @@
 {
-  "name": "cc-prep-forge",
+  "name": "cc-prep",
   "version": "1.0.0",
   "description": "ISC2 Certified in Cybersecurity (CC) exam prep CLI tool with flashcard and quiz modes",
   "main": "index.py",
@@ -9,7 +9,7 @@
     "quiz": "python3 index.py"
   },
   "keywords": ["isc2", "cc", "cybersecurity", "exam-prep", "certification", "flashcards", "quiz"],
-  "author": "Muhammad Aminu Musa (El Matador)",
+  "author": "Muhammad Aminu Musa",
   "license": "MIT",
   "dependencies": {},
   "engines": {
