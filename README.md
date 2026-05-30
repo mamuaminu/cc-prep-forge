@@ -22,26 +22,11 @@
 
 ## Install
 
-
-╔══════════════════════════════════════════════════════════════╗
-║              🔥 CC-PREP FORGE 🔥                            ║
-║      ISC2 Certified in Cybersecurity Exam Prep               ║
-║      Built for El Matador — Sakamoto Nightly Build          ║
-╚══════════════════════════════════════════════════════════════╝
-
-
-What would you like to do?
-
-  [1] 📖 Study Mode (Flashcards)
-  [2] 🎯 Quiz Mode (10 Questions)
-  [3] 📊 Progress Stats
-  [4] 📋 Exam Domain Outline
-  [5] 💾 Refresh Question Data
-
-  [Q] Quit
-
-Select: 
-Goodbye, El Matador!
+```bash
+git clone https://github.com/mamuaminu/cc-prep-forge.git
+cd cc-prep-forge
+python3 index.py
+```
 
 ## Modes
 
@@ -71,4 +56,4 @@ Progress is saved to `progress.json` in the same directory.
 
 
 ---
-By Muhammad Aminu Musa
+
